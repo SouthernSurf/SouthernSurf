@@ -6,5 +6,5 @@ SouthernSurfs Roadmap:
 [https://github.com/orgs/SouthernSurf/projects/1/views/1](url)
 
 SouthernSurfs current maplist:
-(SPREADSHEAT)
+[(SPREADSHEAT)](https://docs.google.com/spreadsheets/d/1YgqK05XlYPb8igZbWZr3v6ymYNJne6JLF0fbUNix-_I/edit?usp=sharing)
 
