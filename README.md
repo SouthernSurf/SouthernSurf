@@ -6,13 +6,16 @@ SouthernSurf is a Counter-Strike: Source community dedicated to creating less po
 
 # Links
 
-SouthernSurfs Roadmap:
+SouthernSurf's Roadmap:
 [https://github.com/orgs/SouthernSurf/projects/1/views/1](url)
 
-SouthernSurfs zone progression: 
-[https://docs.google.com/spreadsheets/d/18HcQCQg1DZFKKX1SU3crd7da7qw1e1A1MjsLh3ecZBc/edit?usp=sharing](url)
+SouthernSurf's Map Downloads
+[https://www.dropbox.com/scl/fo/1u75ageazlrcz8bjn2xnh/ACL1KM4teY1oPIs8UdbZqXA?rlkey=rl80tht0fmowt9jqcdtbtnnxn&st=he4l8539&dl=0](url)
 
-SouthernSurfs current maplist:
+SouthernSurf's current maplist:
 [https://docs.google.com/spreadsheets/d/1YgqK05XlYPb8igZbWZr3v6ymYNJne6JLF0fbUNix-_I/edit?usp=sharing](url)
 
-SouthernSurfs Wiki: 
+SouthernSurf's zone progression: 
+[https://docs.google.com/spreadsheets/d/18HcQCQg1DZFKKX1SU3crd7da7qw1e1A1MjsLh3ecZBc/edit?usp=sharing](url)
+
+SouthernSurf's Wiki: 
